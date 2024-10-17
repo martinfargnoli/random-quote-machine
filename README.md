@@ -1,6 +1,10 @@
-# React + TypeScript + Vite
+# Random Quote Machine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed with React + TypeScript + Vite
+
+- Martín Fargnoli
+
+-----------------------------------------------------------------
 
 Currently, two official plugins are available:
 
